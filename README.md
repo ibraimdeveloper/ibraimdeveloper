@@ -9,7 +9,6 @@
 ### 👋 Sobre mim
 
 - 🎓 Estudante de **Engenharia de Software** na **Escola 42**
-- 🌍 Baseado em **Angola** 🇦🇴
 - 🔭 Actualmente a trabalhar em projectos de **backend e sistemas**
 - 🌱 A aprender cada dia mais sobre **arquitetura escalável**
 - ⚡ Apaixonado por **eficiência algorítmica** e código limpo
