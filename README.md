@@ -54,7 +54,7 @@ Infraestrutura completa de serviços utilizando virtualização.
 </td>
 <td width="50%">
 
-#### 🌐 FT_Transcendence
+#### 🌐 Mini-Rede-Social
 Mini rede social com backend robusto, interação em tempo real e interface de utilizador.
 
 `Python(Django)` `React` `TypeScript` `Docker`
