@@ -8,16 +8,11 @@
 
 ### 👋 Sobre mim
 
-```python
-dev = {
-    "nome":      "Ibraim Augusto Diarra",
-    "localização": "Viana, Ponte Amarela — Angola 🇦🇴",
-    "formação":  "Escola 42 · Engenharia de Software (2024–presente)",
-    "foco":      ["Sistemas robustos", "Eficiência algorítmica", "Arquitetura escalável"],
-    "idiomas":   ["Português 🇵🇹", "Inglês (iniciante) 🇬🇧"],
-    "contacto":  "ibraimaugusto60@gmail.com"
-}
-```
+- 🎓 Estudante de **Engenharia de Software** na **Escola 42**
+- 🌍 Baseado em **Angola** 🇦🇴
+- 🔭 Actualmente a trabalhar em projectos de **backend e sistemas**
+- 🌱 A aprender cada dia mais sobre **arquitetura escalável**
+- ⚡ Apaixonado por **eficiência algorítmica** e código limpo
 
 ---
 
